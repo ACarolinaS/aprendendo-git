@@ -1,1 +1,1 @@
-print("Questão 05 nova")
+print("Questão 05 nova editada")
